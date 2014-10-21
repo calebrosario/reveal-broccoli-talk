@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Broccoli.js - the Javascript Asset Pipeline",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
