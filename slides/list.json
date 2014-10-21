@@ -11,4 +11,6 @@
     "broccoli-and-fast-cheese.md",
     "chainable-plugins.md",
     "trees-vs-files.md",
+    "rebuilds-where-my-partials-at.md",
+    "parallelism-go-fast.md"
 ]

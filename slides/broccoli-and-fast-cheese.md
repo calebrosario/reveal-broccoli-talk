@@ -1,3 +1,6 @@
 ##  Broccoli and Fast Cheese
 
-This is a new Markdown slide
+![picture of broccoli with cheese](images/broccoli_cheese.jpg)
+
+
+NOTE:

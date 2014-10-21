@@ -1,10 +1,7 @@
 
-# Broccoli.js - the Javascript Asset Pipeline
+# Broccoli.js
 
-From the terminal, pop in:
+![picture of Jo Liss](images/broccoli.jpg)
+###The Javascript Asset Pipeline
 
-  ```yo reveal:slide "Slide Title"```
 
-Available options:
-
- ```--markdown --attributes --notes```
