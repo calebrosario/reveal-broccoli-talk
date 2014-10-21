@@ -5,12 +5,20 @@
     "created-by-jo-liss.md",
     [
         "comparison.md",
+        "comparisonbrunch.md",
         "comparisongrunt.md",
         "comparisongulp.md"
     ],
     "broccoli-and-fast-cheese.md",
-    "chainable-plugins.md",
+    [
+        "chainable-plugins.md",
+        "chainable-examples.md"
+    ],
     "trees-vs-files.md",
     "rebuilds-where-my-partials-at.md",
-    "parallelism-go-fast.md"
+    "parallelism-go-fast.md",
+    [
+        "community.md",
+        "plugins.md"
+    ]
 ]
